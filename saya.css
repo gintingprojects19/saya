@@ -68,7 +68,7 @@ li{
         position: fixed;
         z-index: 999;
         display: block;
-        margin-top: 100%;
+        margin-top: 120%;
     }
     li{
         margin-top: 5px;
